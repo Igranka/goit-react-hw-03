@@ -1,0 +1,14 @@
+.contact {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:space-between;
+    gap: 32px;
+}
+
+.deleteBtn {
+    background-color: blue;
+    color: antiquewhite;
+    border-radius: 6px;
+    padding: 5px 10px;
+    width: 60px;
+}

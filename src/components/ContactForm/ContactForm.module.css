@@ -1,0 +1,42 @@
+.form {
+    border: 1px black solid;
+    padding: 10px 25px;
+    border-radius: 6px;
+    width: 400px;
+    align-items:center;
+    margin-bottom: 15px;
+}
+
+.group {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.label {
+    margin-bottom: 5px;
+}
+
+.field {
+    margin-bottom: 5px;
+    border-radius: 2px;
+    padding: 1px 2px;
+}
+
+.error {
+    color: rgba(255, 0, 0, 0.7);
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.button {
+    background-color: blue;
+    color:antiquewhite;
+    border-radius: 6px;
+    padding: 5px 10px;
+    width: 110px;
+    margin: auto;
+}
+
+

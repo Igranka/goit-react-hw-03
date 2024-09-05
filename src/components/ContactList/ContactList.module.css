@@ -1,0 +1,8 @@
+.item {
+    margin-bottom: 15px;
+    border: 1px black solid;
+    border-radius: 6px;
+    padding: 10px 25px;
+    width: 400px;
+    align-items: center;
+}
